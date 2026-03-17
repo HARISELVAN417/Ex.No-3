@@ -3,6 +3,8 @@
 ## Name: HARISELVAN S
 ## Register Number: 212224040103
 
+## Date: 23-02-2026
+
 ## AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
 ## ALGORITHM
